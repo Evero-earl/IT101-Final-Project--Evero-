@@ -10,7 +10,7 @@ int main() {
     int length, palindrome;
 
     do {
-        printf("\n===== IT102A PROGRAM PORTFOLIO =====\n");
+        printf("\n===== IT101A PROGRAM PORTFOLIO =====\n");
         printf("1. Pattern Generator\n");
         printf("2. Pascal's Triangle\n");
         printf("3. Grade Calculator\n");
